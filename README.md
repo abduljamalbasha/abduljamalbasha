@@ -1,4 +1,4 @@
-I'm 7+ years experienced Full-Stack Development with experience. 
+I'm 8+ years experienced Full-Stack Development with experience. 
 I specialize in Web Framework, Node JS, Express JS, React JS, Angular, .NET Framework, MySQL, MS-SQL and Github, 
 and would love to work with inspiring & innovative people given the opportunity.
 
